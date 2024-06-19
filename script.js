@@ -145,7 +145,5 @@ searchButton.addEventListener('click', function() {
   }
 
   searchInput.value = '';
-
-  console.log(resultSearch)
 });
 
